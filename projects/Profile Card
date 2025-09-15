@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<style>
+  div{
+    background-color: brown;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+a:hover, a:active {
+  background-color: red;
+}
+
+
+</style>
+  <head>
+    <title>Profile Card</title>
+  </head>
+
+  <div>
+  <h1 style="font-size:large;"> <b>Chyomah's Profile Card </b></h1>
+  <img src="me.JPG" alt="A picture of Chyomah in all her glory" height="300px" width="400px" margin="auto">
+  <p><b>Name</b>: Chyomah <br> <b>Title</b>: Aspiring Frontend Developer <br> <b>Hobbies</b>: Coding and Reading</p>
+  <a href = "www.chyomahspeaks.substack.com">
+  <img src="substack-icon.png" alt="Visit my Substack page" target="_blank" title="Substack" style="width:42px;height:42px;"> 
+  </a><br>
+  <a href=mailto:chiomah7890@gmail.com title="Email">Send an Email</a><br>
+  <button onclick="//drive.google.com/drive/folders/1W5_rSfkqGPq5jn8kXSZB7n09jJMdBBn6?usp=drive_link" title="Chyomah's Portfolio"> Have a Look at my Portfolio </button>
+  </div>
+
+</body>
+</html>
+
