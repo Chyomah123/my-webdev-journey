@@ -20,7 +20,7 @@ a:hover, a:active {
   <head>
     <title>Profile Card</title>
   </head>
-
+<body>
   <div>
   <h1 style="font-size:large;"> <b>Chyomah's Profile Card </b></h1>
   <img src="me.JPG" alt="A picture of Chyomah in all her glory" height="300px" width="400px" margin="auto">
