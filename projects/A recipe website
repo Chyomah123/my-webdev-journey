@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .recipe{
+            background-color: darkolivegreen;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            border: 5px solid black;
+        }
+        .recipe img{
+            border-radius: 5px;
+            border: 5px solid white;
+
+        }
+        a {
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        color: black;
+        }
+        a:hover, {
+        background-color: rgb(145, 255, 0);
+        color: white;
+        }
+        </style>
+        <body>
+            <div class = "recipe">
+                <h1><img src="recipeimage.jpg" class="recipe img"alt="A picture of Vegetable Soup" style="float:right;width:500px;height:400px;">Chyomah's Recipe for Vegetable Soup</h1>
+                <p>Have you ever been to the southern parts of Nigeria for an <i>ogbonge</i>
+                 plate of vegetable soup? If you haven't, there's no need to fret because Chyomah has got you. 
+                 Today I'll giving you easy steps to cook a delicious pot of vegetable soup for you and your loved ones.<br></p>
+                 <p><b>Ingredients</b> 
+                <br>
+                <ul>
+                    <li>Fresh pumpkin leaves</li>
+                    <li>Fresh Waterleaf</li>
+                    <li>Iru</li>
+                    <li>Palm oil</li>
+                    <li>Chicken or meat (your choice)</li>
+                    <li>Blended Yellow Pepper</li>
+                    <li>Blended Red Pepper</li>
+                    <li>Crayfish</li>
+                    <li>Stockfish head</li>
+                    <li>Salt and Maggi to taste</li>  
+                    <li>Dried Panla Fish</li>
+                    <li>Chopped Onions</li>
+                </ul>
+                </p>
+                <p><b>Recipe</b>
+                <br>
+                <ol>
+                    <li>Wash your chicken or meat and transfer into a pot, then season with onions, maggi, 
+                        salt and the yellow pepper. Put little water and let the chicken get steamed with the seasoning.</li> 
+                    <li>Leave the chicken to steam for about 5 minutes but make sure it doesn't get burnt. After the alloted time, add enough water to cook the chicken.</li>
+                    <li>Wash your stockfish and put it aside. Open up the dried fish, remove the bones and unwanted things in it. Then the dried fish should be washed and cut into smaller pieces  </li>
+                    <li>Add the washed stockfish and dried fish into the pot and let it all cook together.</li>
+                    <li>While the chicken and fish are getting done, wash the leaves thoroughly with salt and then chop them.</li>
+                    <li>Blend the crayfish and wash the iru. Keep both aside.</li>
+                    <li>When the chicken is done, take it out and let the fish in the pot get soft and done.</li>
+                    <li>When the fish is soft, seive out the fish in it and leave the stock water in the pot</li>
+                    <li>Bring the pot down and put a clean pot on fire. </li>
+                    <li>Make sure the pot is dry, then add a reasonable amount of palm oil but make sure it's not a lot. 
+                        Then add the chopped waterleaf with red pepper, crayfish, onions and a cube of maggi.</li>
+                    <li>Then after 5 minutes, add the fish you sieved out it down. Turn the contents for at least 5-7 minutes and then bring it down</li>
+                    <li>Put the pot with the stock back on fire and add the chopped vegtables. Mix thoroughly and let it cook for about 10 minutes. </li>
+                    <li>Then add the contents into the pot with water the leaf with your washed iru and mix thoroughly. Check the taste and let it simmer for a minute or two. Then your sou is ready to serve.</li>
+                </ol>
+<a href="www.google.com" target="_blank" title="MOre recipes">Follow the Link for more recipes</a>
+                </p>
+            </div>
+        </body>
+    </html>
+    
